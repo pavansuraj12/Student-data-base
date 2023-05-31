@@ -1,6 +1,6 @@
 # Student Database
 
-This program is a simple student database management system implemented in C. It allows you to store and manage student records, perform operations such as adding students, deleting students, searching for students, marking attendance, and displaying attendance records.
+This program is a simple student database management system implemented in C using Linked List. It allows you to store and manage student records, perform operations such as adding students, deleting students, searching for students, marking attendance, and displaying attendance records.
 
 ## Table of Contents
 - [Usage](#usage)
