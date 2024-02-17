@@ -16,6 +16,8 @@ void search();
 void attandance();
 void display_attan();
 int main(){
+    printf("Hello Everyonr Welocome to the Student Database");
+    printf("What is Student Database");
     int c;
     printf(".........................");
     printf("\nSTUDENT DATA BASE\n");
